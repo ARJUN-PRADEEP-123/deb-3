@@ -28,17 +28,12 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Selena
 
-➥ Full Name :  Selena Gomez
+➥ ɴᴀᴍᴇ         : ꜱᴇʟᴇɴᴀ
 
-➥ Developer :  Arjun Pradeep
-    
-➥ Creator : [Arjun Pradeep](https://t.me/Arjunbots)
+➥ ᴅᴇᴠᴇʟᴏᴘᴇʀ    : [ᴀʀᴊᴜɴ ᴘʀᴀᴅᴇᴇᴘ](https://t.me/Arjunbots)
 
-➥ Language : Python3
+➥ ʟᴀɴɢᴜᴀɢᴇ     : ᴘʏᴛʜᴏɴ3
 
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Join Channel : [Click Me](https://t.me/squid_game_full_eps)
+➥ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ᴍᴇ](https://t.me/Debbie_Updates)
 """
