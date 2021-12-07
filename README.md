@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/deb-3.git"><img src="https://ibb.co/9bzJgNw" alt="DEBBIE" border="0" height="165" width="45" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/deb-3.git"><img src="https://telegra.ph/file/22b07e06db443e221ce86.jpg" alt="DEBBIE" border="0" height="165" width="45" align="center" /></a>
 </p>
 </details>
 
