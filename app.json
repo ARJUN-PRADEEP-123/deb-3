@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot V3",
+    "name": "debbb",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
     "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
     "keywords": [
@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/ARJUN-PRADEEP-123/SALENA",
+    "repository": "https://github.com/ARJUN-PRADEEP-123/deb-3.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
